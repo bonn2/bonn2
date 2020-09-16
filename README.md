@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brett Bonifas</h1>
+<h1 align="center">Hi, I'm Brett Bonifas</h1>
 <h3 align="center">A self-taught developer who is now attending University</h3>
 
 - 🌱 I’m currently learning **JavaScript**
